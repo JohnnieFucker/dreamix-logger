@@ -1,0 +1,23 @@
+{
+  "name": "dreamix-logger",
+  "version": "1.0.0",
+  "description": "logger",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnieFucker/dreamix-logger.git"
+  },
+  "keywords": [
+    "dreamix",
+    "logger"
+  ],
+  "author": "Shine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnieFucker/dreamix-logger/issues"
+  },
+  "homepage": "https://github.com/JohnnieFucker/dreamix-logger#readme",
+  "dependencies": {
+    "log4js": "^2.3.11"
+  }
+}
